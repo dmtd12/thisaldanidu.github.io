@@ -1,0 +1,30 @@
+/* Contact Section */
+#contact {
+  text-align: center;
+  padding: 40px 0;
+  background-color: #0d1117; /* dark background */
+}
+
+
+#contact h2 {
+  color: #ffffff; /* white heading */
+  margin-bottom: 1.5rem;
+  border-left: none; /* removes the line for Contact only */
+  padding-left: 0;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-list li {
+  margin: 0.6rem 0;
+  font-size: 1.1rem;
+  color: #ffffff; /* white text */
+}
+
+.contact-list a {
+  text-decoration: none;
+  color: #ffffff; /* white links */
+}
